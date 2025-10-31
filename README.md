@@ -16,17 +16,3 @@ El sistema permite la gestión de productos, usuarios y pedidos, aplicando buena
 
 ---
 
-## 📁 Estructura del Proyecto
-
-
----
-
-## 🚀 Instrucciones de Instalación y Ejecución
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/usuario/nombre-del-repositorio.git
-private static final String URL = "jdbc:mysql://localhost:3306/nombre_base";
-private static final String USER = "root";
-private static final String PASSWORD = "root1234";
-
