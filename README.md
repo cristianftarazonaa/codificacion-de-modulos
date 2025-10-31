@@ -15,4 +15,12 @@ El sistema permite la gestión de productos, usuarios y pedidos, aplicando buena
 - **Backend:** JSP, Servlets
 
 ---
+src/
+ ├── modelo/
+ ├── controlador/
+ ├── util/
+ └── vista/
+**Edgar Alfonso**  
+Proyecto académico - Codificación de Módulos  
+SENA | 2025
 
